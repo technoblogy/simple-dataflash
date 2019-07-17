@@ -1,7 +1,7 @@
 # Simple DataFlash
 A simple DataFlash library for sequential reading and writing. For more information, and the circuit for a simple DataFlash board, see: <http://www.technoblogy.com/show?2JMU>.
 
-It consists of the following seven routines:
+The DataFlash library consists of the following seven routines:
 
 #### DataFlash.Setup()
 
